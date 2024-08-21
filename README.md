@@ -1,9 +1,7 @@
 ### Hiiii
 
-⭐️ This is Yike(she/her), a fifth-year MS Computer Science student at UC Berkeley.
+⭐️ This is Yike(she/her), an incoming PhD student at the University of Washington.
 
-🌱 I enjoy NLP and machine learning, especially SocialNLP and Trustworthy NLP.
+🌱 I do research in natural language processing, especially Trustworthy NLP.
 
-🪵 I'm actively seeking a Ph.D. opportunity starting from Fall 2024!
-
-🌸 Email: yike_wang@berkeley.edu
+🌸 Email: yikewang@cs.washington.edu
